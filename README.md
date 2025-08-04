@@ -129,3 +129,5 @@ Use official onion URLs to access darknet markets, and always verify them. Mirro
 
 Darknet markets offer a venue for anonymous transactions.  You can use them safely by following security best practices, leveraging escrow, and by reviewing and validating all information, ensuring a successful, secure experience.
 Plase contribute and add stars to this repo.
+
+Update:  04.08.2025 link is back online
